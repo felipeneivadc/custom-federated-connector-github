@@ -45,3 +45,11 @@ Leia [docs/setup.md](docs/setup.md) para reproduzir a configuracao e
 - PKCE e expiracao de user-to-server tokens ficam habilitados.
 - O token de teste deve ser temporario, de leitura e limitado ao repositorio de
   teste.
+
+## Referencias oficiais
+
+- [Microsoft: configurar conectores federados personalizados](https://learn.microsoft.com/en-us/microsoft-365/copilot/connectors/set-up-custom-federated-connectors)
+- [Microsoft: autenticao OAuth 2.0 para MCP](https://learn.microsoft.com/en-us/microsoft-365/copilot/extensibility/plugin-authentication-oauth)
+- [GitHub MCP Server: servidor remoto e toolsets](https://github.com/github/github-mcp-server/blob/main/docs/remote-server.md)
+- [GitHub Apps: user access tokens](https://docs.github.com/en/apps/creating-github-apps/authenticating-with-a-github-app/generating-a-user-access-token-for-a-github-app)
+- [MCP: especificacao de autorizacao](https://modelcontextprotocol.io/specification/2025-06-18/basic/authorization)
